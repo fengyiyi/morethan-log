@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `1v1.design`,
+      href: "https://www.1v1.design/",
     },
   ],
   // blog setting (required)
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log-phi-six.vercel.app",
+  link: "https://fengyiyi.com",
   since: 2022, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
